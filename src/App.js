@@ -6,7 +6,7 @@ import SearchBox from "./components/searchBox/SearchBox";
 import Scroll from "./components/scroll/Scroll";
 import ErrorBoundary from "./components/errorBoundary/ErrorBoundary";
 
-import { setSearchField, requestRobots } from "./Actions";
+import { setSearchField, requestRobots } from "./Action/Actions";
 
 import "./App.css";
 

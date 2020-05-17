@@ -3,7 +3,7 @@ import {
   REQUEST_ROBOTS_PENDING,
   REQUEST_ROBOTS_SUCCESS,
   REQUEST_ROBOTS_FAILED,
-} from "./Constants";
+} from "../Constant/Constants";
 
 const initialStateSearch = {
   searchField: "",

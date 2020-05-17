@@ -8,7 +8,7 @@ import "./index.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 
-import { searchRobots, requestRobots } from "./Reducer";
+import { searchRobots, requestRobots } from "./Reducer/Reducer";
 
 import "tachyons";
 
